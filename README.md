@@ -6,8 +6,8 @@ The funcation will be added on the basis of version developed
 
 ### **Version 1**
   Feed 
-  -> Filters
-  -> Profiles
+    -Filters
+    -Profiles
   
 
 ### **Version 2**
