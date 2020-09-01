@@ -1,7 +1,7 @@
 ## Helix (Native Android Application)
 
-Helix bridged the gap between startups and Investors by providing a platform where startups can publicize their work and attract potential funding opportunities.     
-Helix aims to assist investors to find startups in their early stage. 
+Helix bridges the gap between startups and Investors by providing a platform where startups can publicize their work and attract potential funding opportunities.     
+Helix aims to assist investors to find startups in their early stage, this in turn help startups to open new opportunities and fasttrack their development.  
 
 Platform will be developed in stages the versions are as follows:
 
