@@ -5,7 +5,7 @@ The main of the application is to create a connection between the startups and I
 The funcation will be added on the basis of version developed
 
 ### **Version 1**
-  -> Feed 
+  Feed 
   -> Filters
   -> Profiles
   
@@ -29,3 +29,7 @@ The funcation will be added on the basis of version developed
   5. Vaishnavi Yeluri
   6. Avinash Vijayvargiya
 
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
