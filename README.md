@@ -1,8 +1,9 @@
-## Helix Android Application (Native Android Application)
+## Helix (Native Android Application)
 
-The main of the application is to create a connection between the startups and Investors.
+Helix bridged the gap between startups and Investors by providing a platform where startups can publicize their work and attract potential funding opportunities.     
+Helix aims to assist investors to find startups in their early stage. 
 
-The funcation will be added on the basis of version developed
+Platform will be developed in stages the versions are as follows:
 
 ### **Version 1**
     -Feed 
