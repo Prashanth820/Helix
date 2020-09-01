@@ -5,7 +5,7 @@ The main of the application is to create a connection between the startups and I
 The funcation will be added on the basis of version developed
 
 ### **Version 1**
-    -Feed 
+    *Feed 
     -Filters
     -Profiles
   
