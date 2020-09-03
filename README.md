@@ -26,6 +26,6 @@ Platform will be developed in stages the versions are as follows:
   1. Rohit Satwadhar **(Leader)**
   2. Yash Halgoankar
   3. Atharva Deshpande
-  4. Pranshant
+  4. Prashanth Bijamwar
   5. Vaishnavi Yeluri
   6. Avinash Vijayvargiya
